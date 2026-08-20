@@ -1,0 +1,14 @@
+vendor/
+.code-collector/
+.phpunit.cache/
+build/
+.idea/
+logs/
+.php-cs-fixer.cache
+composer.lock
+.DS_Store
+.agents/
+.scratch/
+AGENTS.md
+CONTEXT.md
+docs/
